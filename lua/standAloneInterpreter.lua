@@ -1,0 +1,4 @@
+-- 독립형 통역사?
+-- lua [options] [script [args]]
+-- -e옵션을 사용하면 명령줄에 직접 코드를 입력할 수 있습니다
+-- ex) lua -e "print(math.sin(12))"
