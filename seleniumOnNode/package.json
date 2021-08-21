@@ -1,0 +1,16 @@
+{
+  "name": "seleniumOnNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^92.0.1",
+    "selenium-webdriver": "^4.0.0-beta.4"
+  }
+}
