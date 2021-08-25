@@ -1,0 +1,17 @@
+{
+  "name": "outScraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajax-client": "^1.5.7",
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
+  }
+}

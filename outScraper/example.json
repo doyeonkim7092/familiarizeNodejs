@@ -1,0 +1,1134 @@
+{
+    "id": "7f5f180f-072a-4de5-9469-b5adb5d2e41e",
+    "status": "Success",
+    "data": [
+        {
+            "name": "연세굿데이치과",
+            "full_address": "South Korea, Seoul, Seocho-gu, Yangjae-dong, 13-8 보은빌딩 2,3,8층",
+            "borough": null,
+            "street": "Yangjae-dong, 13-8 보은빌딩 2,3,8층",
+            "city": "Seocho-gu",
+            "postal_code": null,
+            "country_code": "KR",
+            "country": "South Korea",
+            "us_state": null,
+            "state": "Seoul",
+            "plus_code": "8Q99F2MP+6C",
+            "latitude": 37.4830683,
+            "longitude": 127.03601379999999,
+            "time_zone": "Asia/Seoul",
+            "popular_times": [
+                {
+                    "day": 7,
+                    "popular_times": []
+                },
+                {
+                    "day": 1,
+                    "popular_times": [
+                        {
+                            "hour": 6,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 58,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 69,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 64,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 55,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 63,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 78,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 74,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 63,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 58,
+                            "title": "Usually a little busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 48,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 30,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        }
+                    ]
+                },
+                {
+                    "day": 2,
+                    "popular_times": [
+                        {
+                            "hour": 6,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 46,
+                            "title": "Usually not too busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 51,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 51,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 52,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 57,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 68,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 76,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 76,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 63,
+                            "title": "Usually a little busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 44,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 25,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        }
+                    ]
+                },
+                {
+                    "day": 3,
+                    "popular_times": [
+                        {
+                            "hour": 6,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 58,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 56,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 45,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 43,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 54,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 69,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 79,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 77,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 64,
+                            "title": "Usually a little busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 45,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 27,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        }
+                    ]
+                },
+                {
+                    "day": 4,
+                    "popular_times": [
+                        {
+                            "hour": 6,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 59,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 51,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 39,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 52,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 75,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 91,
+                            "title": "Usually as busy as it gets",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 93,
+                            "title": "Usually as busy as it gets",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 77,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 54,
+                            "title": "Usually a little busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 31,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 16,
+                            "title": "Usually not busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        }
+                    ]
+                },
+                {
+                    "day": 5,
+                    "popular_times": [
+                        {
+                            "hour": 6,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 72,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 72,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 52,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 46,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 65,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 90,
+                            "title": "Usually as busy as it gets",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 100,
+                            "title": "Usually as busy as it gets",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 84,
+                            "title": "Usually as busy as it gets",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 55,
+                            "title": "Usually a little busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        }
+                    ]
+                },
+                {
+                    "day": 6,
+                    "popular_times": [
+                        {
+                            "hour": 6,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 65,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 83,
+                            "title": "Usually as busy as it gets",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 75,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 46,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        }
+                    ]
+                }
+            ],
+            "site": "http://gooddaysmile.com/",
+            "phone": "+82 2-574-2279",
+            "type": "Dentist",
+            "category": "치과의사",
+            "subtypes": "Dentist",
+            "posts": null,
+            "rating": 4.3,
+            "reviews": 21,
+            "reviews_data": [
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURhaW9TZTNBRRAB",
+                    "autor_link": "https://www.google.com/maps/contrib/101735200149836719938?hl=en-US",
+                    "autor_name": "이가연튜브",
+                    "autor_id": "101735200149836719938",
+                    "autor_image": "https://lh3.googleusercontent.com/a-/AOh14GjNQHlvEz8qdFaG4gcsj2tfN7bt5SZNgZMJXiwjfMk=s120-c-c0x00000000-cc-rp-mo-br100",
+                    "review_text": "보존치료와 임플란트 시술에 대해서\n자세한 설명을 듣고\n좋은 치료를 받을 수 있겠다는\n신뢰가 생겨서 마음이 편했던 치과 입니다.\n\n김진근 원장님 설명이 아주 자세했고\n스케일링 해주시는 간호사 선생님도\n시리지 않게 친절히 잘 해주셨습니다.\n\n긴 여정 잘 마무리되어서\n아주 속이 시원하고\n검색 신공으로 이 치과 찾아간\n제 자신을 칭찬하고 싶네요",
+                    "review_img_url": "https://lh3.googleusercontent.com/a-/AOh14GjNQHlvEz8qdFaG4gcsj2tfN7bt5SZNgZMJXiwjfMk",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s101735200149836719938!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1629295315,
+                    "review_datetime_utc": "08/18/2021 14:01:55",
+                    "review_likes": 1,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLMjZPYTJRRRAB",
+                    "autor_link": "https://www.google.com/maps/contrib/109725775822418828483?hl=en-US",
+                    "autor_name": "류지희",
+                    "autor_id": "109725775822418828483",
+                    "autor_image": "https://lh3.googleusercontent.com/a-/AOh14GjPZ22oBiFQHlMyo7y9zEtT6IhxSdEtvpKr-NSAlw=s120-c-c0x00000000-cc-rp-mo-br100",
+                    "review_text": "(Translated by Google) The hospital interior was clean and the staff were friendly and responsive.\nI had a correction consultation with Director Kim Geun-hwa, but I started correction by explaining honestly and in detail the parts that I was not familiar with.\n\n(Original)\n병원 내부도 깨끗하고 직원분들 응대도 친절하고 좋았습니다.\n김근화 원장님과 교정상담을 했는데 제가 잘 모르고 있던 부분들까지 솔직하고 자세히 설명해주셔서 교정 시작했습니다.",
+                    "review_img_url": "https://lh5.googleusercontent.com/p/AF1QipOjCsJTtho_fQOeKf2VRHVBIyJO8UPXhNopiJwT",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s109725775822418828483!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1618908132,
+                    "review_datetime_utc": "04/20/2021 08:42:12",
+                    "review_likes": 1,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNjX1lTNkZBEAE",
+                    "autor_link": "https://www.google.com/maps/contrib/103206492130281242363?hl=en-US",
+                    "autor_name": "나경수",
+                    "autor_id": "103206492130281242363",
+                    "autor_image": "https://lh3.googleusercontent.com/a/AATXAJwmUuF6afGn5HY3mGvJOB5I4Adh-S_tm9qIKDnr=s120-c-c0x00000000-cc-rp-mo-br100",
+                    "review_text": "(Translated by Google) When I said I was looking for a dentist, my company junior told me about it, so I searched for it and went for it.\n\nIt was great to explain in detail what kind of treatment the doctor should treat and from what teeth.\nHe was good at painless anesthesia and kindly answered various annoying questions.\n\nOther staff are also very friendly and friendly.\nThank you for explaining things such as price and insurance.\nIt was very easy to get to because it was near the station.\n\n(Original)\n치과찾는다고 했더니 회사후배가 알려줘서 검색해보고 평 좋아서 갔습니다.\n\n의사선생님이 어떤 치료를 해야하는지 어떤 치아부터 치료하는게 좋은지 상세하게 설명해주셔서 좋았습니다.\n마취도 안아프게 잘해주시고 여러가지 귀찮은 질문에도 친절하게 답해주셨습니다.\n\n그 외 직원분들도 너무 상냥하고 친절해요.\n가격이나 보험같은 것들 설명도 알기쉽게 설명해주셔서 감사했습니다.\n역 근처라 찾아가기는 매우 쉬웠고요.",
+                    "review_img_url": "https://lh3.googleusercontent.com/a/AATXAJwmUuF6afGn5HY3mGvJOB5I4Adh-S_tm9qIKDnr",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s103206492130281242363!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1585123165,
+                    "review_datetime_utc": "03/25/2020 07:59:25",
+                    "review_likes": 1,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM4NjhyVzFnRRAB",
+                    "autor_link": "https://www.google.com/maps/contrib/113660268340896196460?hl=en-US",
+                    "autor_name": "권유진",
+                    "autor_id": "113660268340896196460",
+                    "autor_image": "https://lh3.googleusercontent.com/a/AATXAJzKPNcuF3-esvJoiVLWx6a0AJ_sdSjnVrTMtQ_a=s120-c-c0x00000000-cc-rp-mo-br100",
+                    "review_text": "(Translated by Google) I am being treated for splint due to jaw joint disorder. The effect is good and the doctor of the doctor always likes to explain in detail. However, even if you make a reservation, the waiting time is about 15 minutes.\n\n(Original)\n턱관절 장애 때문에 스플린트 치료 받고 있습니다. 효과가 좋고 주치의 의사선생님은 항상 자세하게 설명해주는 점이 마음에 듭니다. 그런데 예약하고 가도 대기시간은 15분 정도 있습니다.",
+                    "review_img_url": "https://lh3.googleusercontent.com/a/AATXAJzKPNcuF3-esvJoiVLWx6a0AJ_sdSjnVrTMtQ_a",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s113660268340896196460!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 4,
+                    "review_timestamp": 1594816936,
+                    "review_datetime_utc": "07/15/2020 12:42:16",
+                    "review_likes": 1,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNjdWZ1UWdnRRAB",
+                    "autor_link": "https://www.google.com/maps/contrib/103955117841964351120?hl=en-US",
+                    "autor_name": "윤소원",
+                    "autor_id": "103955117841964351120",
+                    "autor_image": "https://lh3.googleusercontent.com/a/AATXAJyFaMrTpH21Q8K2UtNqN0mkaL7VI27QdIzbg0U=s120-c-c0x00000000-cc-rp-mo-br100",
+                    "review_text": "(Translated by Google) I didn't know what other dental treatments I had.\nExplain everything from cause to process and effect\nIt was good to tell the amount of medical treatment by type ~\nThe anesthesia injection was also painful, so I was well treated !!\nI think I'll go often because it's near the company ~~\n\n(Original)\n다른 치과에선 어떤 충치치료를 받는지도 몰랐는데\n원인부터 과정, 결과까지 다 설명해주시고\n진료금액도 종류별로 알려주셔서 좋았어요~\n마취주사도 안아파서 편하게 진료 잘 받았습니다!!\n회사근처라 자주 갈거같아요~~",
+                    "review_img_url": "https://lh3.googleusercontent.com/a/AATXAJyFaMrTpH21Q8K2UtNqN0mkaL7VI27QdIzbg0U",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s103955117841964351120!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1584350939,
+                    "review_datetime_utc": "03/16/2020 09:28:59",
+                    "review_likes": 1,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDMUxHRElnEAE",
+                    "autor_link": "https://www.google.com/maps/contrib/104366571295737512157?hl=en-US",
+                    "autor_name": "u Y",
+                    "autor_id": "104366571295737512157",
+                    "autor_image": "https://lh3.googleusercontent.com/a/AATXAJzhf5Q6wQQfFatKK8DUxErYJS9RcneuCwaGvsA=s120-c-c0x00000000-cc-rp-mo-br100",
+                    "review_text": "(Translated by Google) Primary Doctor: Kang Min-kyung\nTreatment: ceramic inlay\nGeneral comment: Now, the inflammation has subsided, so there are no problems with daily life. I was treated under a microscopy and it hardly hurts.\n\n(Original)\n담당주치의: 강민경\n치료: 세라믹 인레이\n총평: 지금은 염증이 가라앉아 일상생활하는데 전혀 문제가 없습니다. 미세현미경 치료받았고 거의 아프지 않았어요",
+                    "review_img_url": "https://lh3.googleusercontent.com/a/AATXAJzhf5Q6wQQfFatKK8DUxErYJS9RcneuCwaGvsA",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s104366571295737512157!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 4,
+                    "review_timestamp": 1597288336,
+                    "review_datetime_utc": "08/13/2020 03:12:16",
+                    "review_likes": 1,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJMVoyN0JREAE",
+                    "autor_link": "https://www.google.com/maps/contrib/103847108972790009523?hl=en-US",
+                    "autor_name": "GAEUN",
+                    "autor_id": "103847108972790009523",
+                    "autor_image": "https://lh3.googleusercontent.com/a-/AOh14GgRuShMs_DmT6yIZIY-vdGznOwDJUYAYCfCRDfxZqU=s120-c-c0x00000000-cc-rp-mo-ba6-br100",
+                    "review_text": "(Translated by Google) This is a famous dental clinic located at the intersection of Yangjae Station. Reservation required\n\n(Original)\n양재역 사거리에 소재한 유명치과입니다. 예약필수",
+                    "review_img_url": "https://lh5.googleusercontent.com/p/AF1QipP4mwXqE3mdoxl12DCZ33EgbqkFcPoj9cXLJP17",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s103847108972790009523!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1543473154,
+                    "review_datetime_utc": "11/29/2018 06:32:34",
+                    "review_likes": 1,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDc01MYU5nEAE",
+                    "autor_link": "https://www.google.com/maps/contrib/115401725815916127120?hl=en-US",
+                    "autor_name": "Yoon",
+                    "autor_id": "115401725815916127120",
+                    "autor_image": "https://lh3.googleusercontent.com/a-/AOh14Gh6qy8SH-HOpMh_yruTXcU8KH0qMjJSBb5T6Or1=s120-c-c0x00000000-cc-rp-mo-br100",
+                    "review_text": "(Translated by Google) It was nice for you to explain everything kindly without excessive treatment.\n\n(Original)\n과잉진료 없고 친절하게 다 설명해 주셔서 좋았어요.",
+                    "review_img_url": "https://lh3.googleusercontent.com/a-/AOh14Gh6qy8SH-HOpMh_yruTXcU8KH0qMjJSBb5T6Or1",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s115401725815916127120!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1599862276,
+                    "review_datetime_utc": "09/11/2020 22:11:16",
+                    "review_likes": 1,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNNmY3NkNBEAE",
+                    "autor_link": "https://www.google.com/maps/contrib/102353684098082771996?hl=en-US",
+                    "autor_name": "개구리왕자",
+                    "autor_id": "102353684098082771996",
+                    "autor_image": "https://lh3.googleusercontent.com/a-/AOh14GgKYXvnYtSLQupR7sOOkjbRR6mPEdVSh9is5x247w=s120-c-c0x00000000-cc-rp-mo-br100",
+                    "review_text": "(Translated by Google) There's no over-care, but I can't communicate well with each other. Medical records with other directors or care management between dental hygienists.\nIt's a good idea to check the progress once more to see if things are going well.\n\n(Original)\n과잉진료는 없지만 서로간 소통이 잘 안되는 느낌.. 다른 원장님과의 진료 기록이나 치위생사들 간에 진료관리 등.\n말했던게 잘 되고 있는지 진행사항 등을 한 번 더 확인해보는게 좋음  ㅠㅠ.",
+                    "review_img_url": "https://lh3.googleusercontent.com/a-/AOh14GgKYXvnYtSLQupR7sOOkjbRR6mPEdVSh9is5x247w",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s102353684098082771996!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 3,
+                    "review_timestamp": 1578125570,
+                    "review_datetime_utc": "01/04/2020 08:12:50",
+                    "review_likes": 0,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURjMl9iYWNREAE",
+                    "autor_link": "https://www.google.com/maps/contrib/104553306536046659860?hl=en-US",
+                    "autor_name": "정한진",
+                    "autor_id": "104553306536046659860",
+                    "autor_image": "https://lh3.googleusercontent.com/a/AATXAJyxHASVIbOolXmv3AWRBZ6v0XutreHY7JUWv7Bi=s120-c-c0x00000000-cc-rp-mo-br100",
+                    "review_text": "(Translated by Google) [Advantages]\n-No excess medical treatment\n-The doctor and staff are all very friendly\n-Treatment is clean and comfortable\n-Treatment fee is appropriate\n\n[Disadvantages]\n-Reserved but there is some waiting time\n\n*General review\nLikely to visit again\n\n(Original)\n[장점]\n- 과잉진료 없음\n- 의사, 직원 모두 정말 친절함\n- 시술이 깨끗하고 쾌적한 편임\n- 치료비는 적정선임\n\n[단점]\n- 예약했으나 대기시간 조금 있음\n\n*총평\n또 방문할 것 같음",
+                    "review_img_url": "https://lh3.googleusercontent.com/a/AATXAJyxHASVIbOolXmv3AWRBZ6v0XutreHY7JUWv7Bi",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s104553306536046659860!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1592527596,
+                    "review_datetime_utc": "06/19/2020 00:46:36",
+                    "review_likes": 0,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDa3BPRV9nRRAB",
+                    "autor_link": "https://www.google.com/maps/contrib/114266985397817031612?hl=en-US",
+                    "autor_name": "김한빈",
+                    "autor_id": "114266985397817031612",
+                    "autor_image": "https://lh3.googleusercontent.com/a/AATXAJzjwPCF3Oi4SQz-9WABhwHiYgefed7KL4gQZF4S=s120-c-c0x00000000-cc-rp-mo-br100",
+                    "review_text": "(Translated by Google) The hospital that planted a good image for me, who is afraid of dentistry. I am satisfied\n\n(Original)\n치과를 무서워하는 나한테 좋은 이미지를 심어준 병원. 만족스럽습니다",
+                    "review_img_url": "https://lh3.googleusercontent.com/a/AATXAJzjwPCF3Oi4SQz-9WABhwHiYgefed7KL4gQZF4S",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s114266985397817031612!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1597718649,
+                    "review_datetime_utc": "08/18/2020 02:44:09",
+                    "review_likes": 1,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDalBlaGlBRRAB",
+                    "autor_link": "https://www.google.com/maps/contrib/101274640565191183785?hl=en-US",
+                    "autor_name": "이영",
+                    "autor_id": "101274640565191183785",
+                    "autor_image": "https://lh3.googleusercontent.com/a-/AOh14GjPwD3jWJmpMXlK4XyjWvGSwpb9tej8-h7VPO8=s120-c-c0x00000000-cc-rp-mo-br100",
+                    "review_text": "(Translated by Google) Friendly and clean but with quite a few waiting times...\n\n(Original)\n친절하고 깨끗하지만 대기시간이 꽤 잇음...",
+                    "review_img_url": "https://lh3.googleusercontent.com/a-/AOh14GjPwD3jWJmpMXlK4XyjWvGSwpb9tej8-h7VPO8",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s101274640565191183785!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 3,
+                    "review_timestamp": 1597386806,
+                    "review_datetime_utc": "08/14/2020 06:33:26",
+                    "review_likes": 0,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM4MXVPWTFBRRAB",
+                    "autor_link": "https://www.google.com/maps/contrib/111011981032100957137?hl=en-US",
+                    "autor_name": "허소희",
+                    "autor_id": "111011981032100957137",
+                    "autor_image": "https://lh3.googleusercontent.com/a/AATXAJyAQUM2HZtCvGspn1499TqwwJJaL8s-bMKVYuPK=s120-c-c0x00000000-cc-rp-mo-br100",
+                    "review_text": "(Translated by Google) I went to the review of everybody's reviews, and you are kind to the doctor.\nRecommended~!!\n\n(Original)\n모두닥 리뷰보고 갔는데 의사선생님께사 자상하시네요\n추천합니다~!!",
+                    "review_img_url": "https://lh3.googleusercontent.com/a/AATXAJyAQUM2HZtCvGspn1499TqwwJJaL8s-bMKVYuPK",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s111011981032100957137!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1594042904,
+                    "review_datetime_utc": "07/06/2020 13:41:44",
+                    "review_likes": 1,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwbWZtLTlBRRAB",
+                    "autor_link": "https://www.google.com/maps/contrib/104265562382364487038?hl=en-US",
+                    "autor_name": "김미진",
+                    "autor_id": "104265562382364487038",
+                    "autor_image": "https://lh3.googleusercontent.com/a/AATXAJyF7vz3NBGlQAWdNt4VSc9D67Uf7TRbEa3853_t=s120-c-c0x00000000-cc-rp-mo-br100",
+                    "review_text": "(Translated by Google) I had to do three extractions at my dentist's office.\nHe gave two live at the end of four months from Yonsei gutdeyi dental treatment.\nI only had one implant.\nCarefully look carefully.\n\n(Original)\n이사 전 다니던 치과에서 발치 3개 해야한다고 했는데\n연세굿데이치과에서 4개월 치료 끝에 2개 살려주셨습니다.\n1개만 임플란트 했고요.\n꼼꼼하게 성심껏 살펴주십니다.",
+                    "review_img_url": "https://lh3.googleusercontent.com/a/AATXAJyF7vz3NBGlQAWdNt4VSc9D67Uf7TRbEa3853_t",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s104265562382364487038!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1573440497,
+                    "review_datetime_utc": "11/11/2019 02:48:17",
+                    "review_likes": 2,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwMHZiMGd3RRAB",
+                    "autor_link": "https://www.google.com/maps/contrib/104784846375267812352?hl=en-US",
+                    "autor_name": "김수연",
+                    "autor_id": "104784846375267812352",
+                    "autor_image": "https://lh3.googleusercontent.com/a/AATXAJya5tlntLdIxiBV5n5HSvv98vFqrMnMNEeToXE=s120-c-c0x00000000-cc-rp-mo-br100",
+                    "review_text": "(Translated by Google) It was good not letting excess medical bothers many ask kindly respond\n\n(Original)\n과잉진료 없고 귀찮게 여러가지 물어봐도 친절하게 응대해줘서 좋았습니다",
+                    "review_img_url": "https://lh3.googleusercontent.com/a/AATXAJya5tlntLdIxiBV5n5HSvv98vFqrMnMNEeToXE",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s104784846375267812352!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1572420357,
+                    "review_datetime_utc": "10/30/2019 07:25:57",
+                    "review_likes": 3,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3aTV1bWdBRRAB",
+                    "autor_link": "https://www.google.com/maps/contrib/105673058544411391695?hl=en-US",
+                    "autor_name": "June Lee",
+                    "autor_id": "105673058544411391695",
+                    "autor_image": "https://lh3.googleusercontent.com/a-/AOh14Gg8dwiSYMmwbXUrfaIeUuc1fodQaCZfpLqq4-Jasg=s120-c-c0x00000000-cc-rp-mo-br100",
+                    "review_text": "(Translated by Google) I don't know how to train a bookstore receptacle.\nI waited for 30 minutes, but it was delayed because I was waiting for all the patients in the middle.\nIf you told me that it would be late when all the patients were booked from the beginning, I would have decided in advance. I'll tell you how to think about 'customer's time' after telling me one or two.\nIt's been a long time since the last guest came.\nCan you hold my next reservation without saying sorry? I didn't have any clutter so I just came out.\nGive me some training. These are dental faces\n\n(Original)\n수서점 리셉 교육을 어떻게 시키는건지 모르겠네요.\n30분걸린데서 기다리고있는데, 중간에 예약환자 전부 왔다고 한참 지연 될것 같다고 해서 나왔습니다.\n처음 부터 예약 환자가 전부 오면 더 늦어질거라고 얘기를 해주면 미리 판단 하고 말씀 드렸을텐데. 한두명씩 오고 나서 그제서야 말 해 주는게, '고객의 시간'을 어떻게 생각하고 있는지 알겠네요.\n마지막 손님 오고서도 한참 있다가, 말씀 하시던데.. 그런건 예의가 아니죠.\n죄송하단 말 없이 다음 예약 잡아드릴까요? 하고 물어보길래 어처구니가 없어서 그냥 나왔습니다.\n교육좀 시키세요. 이사람들이 치과얼굴들인데",
+                    "review_img_url": "https://lh3.googleusercontent.com/a-/AOh14Gg8dwiSYMmwbXUrfaIeUuc1fodQaCZfpLqq4-Jasg",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s105673058544411391695!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1494572107,
+                    "review_datetime_utc": "05/12/2017 06:55:07",
+                    "review_likes": 2,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnaDZpVlVBEAE",
+                    "autor_link": "https://www.google.com/maps/contrib/112129200826750256149?hl=en-US",
+                    "autor_name": "반스키로디",
+                    "autor_id": "112129200826750256149",
+                    "autor_image": "https://lh3.googleusercontent.com/a-/AOh14GjCOlXnqsWeZueAsDceE9ti-pPTDmyquWruHN3LZg=s120-c-c0x00000000-cc-rp-mo-ba4-br100",
+                    "review_text": "(Translated by Google) Thanks to good care and kind director, you can trust and go !!\n\n(Original)\n좋은 진료와 친절하신 원장님덕분에 믿고 갈수있습니다!!",
+                    "review_img_url": "https://lh3.googleusercontent.com/a-/AOh14GjCOlXnqsWeZueAsDceE9ti-pPTDmyquWruHN3LZg",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s112129200826750256149!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1500025122,
+                    "review_datetime_utc": "07/14/2017 09:38:42",
+                    "review_likes": 1,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBNEstVWVREAE",
+                    "autor_link": "https://www.google.com/maps/contrib/115742207319258339788?hl=en-US",
+                    "autor_name": "YJ SEO (용팀장)",
+                    "autor_id": "115742207319258339788",
+                    "autor_image": "https://lh3.googleusercontent.com/a-/AOh14Gg2F-XB3rJ6TSFjEh9pxENrzBgcFExtcFpCNeoFuw=s120-c-c0x00000000-cc-rp-mo-ba5-br100",
+                    "review_text": "(Translated by Google) Friendly and comfortable dentist\n\n(Original)\n친절하고 편안한 치과 입니다",
+                    "review_img_url": "https://lh3.googleusercontent.com/a-/AOh14Gg2F-XB3rJ6TSFjEh9pxENrzBgcFExtcFpCNeoFuw",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s115742207319258339788!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1460287025,
+                    "review_datetime_utc": "04/10/2016 11:17:05",
+                    "review_likes": 1,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnMExULXdRRRAB",
+                    "autor_link": "https://www.google.com/maps/contrib/100939494851631429932?hl=en-US",
+                    "autor_name": "Kyeong Yee",
+                    "autor_id": "100939494851631429932",
+                    "autor_image": "https://lh3.googleusercontent.com/a/AATXAJye1a68YjnVZDhCy7loDI4E4iDRyiC2vFew0N05=s120-c-c0x00000000-cc-rp-mo-br100",
+                    "review_text": null,
+                    "review_img_url": "https://lh3.googleusercontent.com/a/AATXAJye1a68YjnVZDhCy7loDI4E4iDRyiC2vFew0N05",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s100939494851631429932!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1510995423,
+                    "review_datetime_utc": "11/18/2017 08:57:03",
+                    "review_likes": 0,
+                    "reviews_id": "648410435521503721"
+                },
+                {
+                    "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvNm9hb1JBEAE",
+                    "autor_link": "https://www.google.com/maps/contrib/109337956889909395983?hl=en-US",
+                    "autor_name": "서사우에",
+                    "autor_id": "109337956889909395983",
+                    "autor_image": "https://lh3.googleusercontent.com/a/AATXAJzB8UYZjULEhrAOp5iM3lBJNX97bImx5Bnwpzqv1HY=s120-c-c0x00000000-cc-rp-mo-ba3-br100",
+                    "review_text": null,
+                    "review_img_url": "https://lh3.googleusercontent.com/a/AATXAJzB8UYZjULEhrAOp5iM3lBJNX97bImx5Bnwpzqv1HY",
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s109337956889909395983!2s0x0:0x8ff9ddb0dea61e9?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1552621254,
+                    "review_datetime_utc": "03/15/2019 03:40:54",
+                    "review_likes": 0,
+                    "reviews_id": "648410435521503721"
+                }
+            ],
+            "photos_count": 4,
+            "google_id": "0x357ca14bce39aacb:0x8ff9ddb0dea61e9",
+            "place_id": "ChIJy6o5zkuhfDUR6WHqDdud_wg",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJy6o5zkuhfDUR6WHqDdud_wg&q=%EC%97%B0%EC%84%B8%EA%B5%BF%EB%8D%B0%EC%9D%B4%EC%B9%98%EA%B3%BC&authuser=0&hl=en&gl=US",
+            "reviews_id": "648410435521503721",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipP4mwXqE3mdoxl12DCZ33EgbqkFcPoj9cXLJP17=w800-h500-k-no",
+            "street_view": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UWXzzAVb_P6an1aPmS7ssg&cb_client=search.gws-prod.gps&w=1600&h=1000&yaw=87.55744&pitch=0&thumbfov=100",
+            "working_hours_old_format": "Monday: 10AM–9PM | Tuesday: 10AM–9PM | Wednesday: 10AM–9PM | Thursday: 10AM–9PM | Friday: 10AM–7PM | Saturday: 10AM–2PM | Sunday: Closed",
+            "working_hours": {
+                "Monday": "10AM–9PM",
+                "Tuesday": "10AM–9PM",
+                "Wednesday": "10AM–9PM",
+                "Thursday": "10AM–9PM",
+                "Friday": "10AM–7PM",
+                "Saturday": "10AM–2PM",
+                "Sunday": "Closed"
+            },
+            "business_status": "OPERATIONAL",
+            "about": {
+                "Accessibility": {
+                    "Wheelchair accessible entrance": true
+                }
+            },
+            "range": null,
+            "reviews_per_score": {
+                "1": 2,
+                "2": 0,
+                "3": 2,
+                "4": 2,
+                "5": 15
+            },
+            "reserving_table_link": null,
+            "booking_appointment_link": null,
+            "owner_id": null,
+            "verified": false,
+            "owner_title": "연세굿데이치과",
+            "owner_link": null,
+            "location_link": "https://www.google.com/maps/place/%EC%97%B0%EC%84%B8%EA%B5%BF%EB%8D%B0%EC%9D%B4%EC%B9%98%EA%B3%BC/@37.4830683,127.03601379999999,14z/data=!4m8!1m2!2m1!1s%EC%97%B0%EC%84%B8%EA%B5%BF%EB%8D%B0%EC%9D%B4%EC%B9%98%EA%B3%BC!3m4!1s0x357ca14bce39aacb:0x8ff9ddb0dea61e9!8m2!3d37.4830683!4d127.03601379999999"
+        }
+    ]
+}
