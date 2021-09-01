@@ -12,52 +12,59 @@ const sleep = function(time) {
 }
 
 module.exports = (async () => {
-    let query = '김정란치과의원';
-    let reviewLimit = 1;
+
+    let query = '이지동안피부과성형외과 신논현점';
+    let reviewsLimit = 5;
     let language = 'ko';
     let region = 'KR'
+    let async = 'true'
 
     let config = {
         headers: { 'X-API-KEY': key },
         params: {
             query: query,
-            reviewLimit: reviewLimit,
+            reviewsLimit: reviewsLimit,
             language: language,
-            region: region
+            region: region,
+            async: async
         }
     }
 
-    let response = await axios.get(BASE_URL, config);
+    let resultAll = [];
+
+    const response = await axios.get(BASE_URL, config);
     console.log(response.status)
     console.log(response.data.results_location, 'location!!!!!');
 
     await sleep(15000);
 
     let result = await axios.get(`${response.data.results_location}`);
-    console.log(result.data.status)
-    console.log(result.data, 'data 1')
-    // await sleep(5000)
-    // Pending Success 차이
+    if (result.data.status.toLowerCase() == 'success') {
+        console.log(result.data.status, 'status')
+        // console.log(result.data.data[0].reviews_data, 'if success')
+        const reviewsData = result.data.data[0].reviews_data;
 
-    if (result.data.status.toLowerCase() == 'pending') {
-        await sleep(5000);
-        result = await axios.get(`${response.data.results_location}`);
-        console.log(result.data,'if pending')
+        for (let review of reviewsData) {
+            resultAll.push(review);
+        }
     }
 
+    if (result.data.status.toLowerCase() == 'pending') {
+        await sleep(10000);
+        result = await axios.get(`${response.data.results_location}`);
+        console.log(result.data.status,'pending after 10s so now?')
+        const reviewsData = result.data.data[0].reviews_data || result.data.data.reviews_data;
 
-    // result = await axios.get(`${response.data.results_location}`);
+        for (let review of reviewsData) {
+            resultAll.push(review);
+        }
 
-    // console.log(result.data, 'data 2')
-    // await sleep(5000)
+    }
+    // review 갯수를 가져올 수 있는 axios 요청은, 
 
-
-    // result = await axios.get(`${response.data.results_location}`);
-
-    // let result = await axios.get('https://api.app.outscraper.com/requests/a96d786a-f2cc-438b-9d2e-271b2cd3a6f0');
-
-    // console.log(result.data, 'data 3')
-    //
 
 })();
+
+
+
 
