@@ -137,7 +137,6 @@ function makeCsv() {
             return await apicall(skip);
         } while (skip == Math.ceil(result.reviews / reviewsLimit));
 
-
     }else {
         //리뷰갯수가 없는 경우에 대한 핸들링
     }
