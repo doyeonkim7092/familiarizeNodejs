@@ -11,7 +11,6 @@ const sleep = function(time) {
     })
 }
 
-
 // 요청결과가 pending인 경우 5초마다 하는 함수
 
 // 페이지네이션 재귀 for문으로 명확하게
