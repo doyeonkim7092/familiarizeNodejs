@@ -11,16 +11,6 @@ const sleep = function(time) {
     })
 }
 
-// 요청결과가 pending인 경우 5초마다 하는 함수
-
-// 페이지네이션 재귀 for문으로 명확하게
-
-/*
-1. 기본 요청 함수 만들고, 여기서 페이지네이션 재귀를 만든다
-2. 두번째 요청에서 펜딩일 경우 5초마다 반복하는 함수를 만든다
-3. 
-*/
-
 const allReviews = [];
 
 async function reqAgain(reqUrl) {
@@ -114,18 +104,6 @@ function makeCsv() {
     //result.reviews === 리뷰갯수 
     //리뷰갯수를 스킵으로 
     if (result.reviews > 0) {
-        // tried for loop (1st try)
-        // for (skip; skip= Math.ceil(result.reviews/reviewsLimit); skip++){
-        //     console.log(skip,'in for loop')
-        //     console.log(Math.ceil(result.reviews/reviewsLimit))
-        //     for (let review of result.reviews_data) {
-        //         allReviews.push(review);
-        //         console.log(allReviews, 'pushed?')
-                
-        //     }
-        //     console.log(skip);
-        //     
-        // }
 
         do {
             console.log(skip,'hey')
