@@ -65,7 +65,8 @@ function makeCsv(kakaoId) {
             console.log(next,'next1111')
             return await main(next);
         }while(next == Math.ceil(response.data.comment.kamapComntcnt / reviewPerPage));
-    }else{
+    }
+    else{
         for(let review of response.data.comment.list){
             resultAll.push(review);
         }
