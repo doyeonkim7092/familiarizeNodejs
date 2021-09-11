@@ -169,7 +169,7 @@ const makeCsv = (naverPlaceId) => {
                     writer_image_url: row.author.imageUrl,
                     contents: row.body,
                     contents_image_url: row.thumbnail,
-                    reply: row.reply.body ? row.body.reply : null,
+                    reply: row.reply.body ? row.body.reply : null, //@@@@@@@@@@@@@@@@@@@@@
                     reply_created_at: row.reply.body ? row.reply.created : null,
                     score: row.rating,
                     visit_count: row.visitCount

@@ -9,15 +9,15 @@ const sleep = function(time) {
             resolve(true);
         }, time);
     })
-}
+};
 
 module.exports = (async () => {
 
     let query = '이지동안피부과성형외과 신논현점';
     let reviewsLimit = 5;
     let language = 'ko';
-    let region = 'KR'
-    let async = 'true'
+    let region = 'KR';
+    let async = 'true';
 
     let config = {
         headers: { 'X-API-KEY': key },
