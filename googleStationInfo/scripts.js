@@ -6,7 +6,7 @@
 const axios = require('axios');
 const BASE_URL = `https://maps.googleapis.com/maps/api/place/textsearch/json?`;
 let subwayInfo = require('./subway.json');
-
+require('dotenv').config();
 const resultAll = [];
 
 const sleep = function(time){
@@ -69,7 +69,7 @@ const getGoogleSubwayInfo = async () => {
                 input: `${subwayLine} ${subwayName}역`,
                 inputtype: 'textquery',
                 fields: 'formatted_address',
-                key: 'AIzaSyCBRox8_213DWBckJGT7g6TdhCALhPR5uc',
+                key: process.env.SECRET,
                 language: 'ko',
                 region: 'kr',
                 type: 'subway_station'
